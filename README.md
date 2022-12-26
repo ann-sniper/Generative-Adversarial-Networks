@@ -1,3 +1,2 @@
 # Generative-Adversarial-Networks
-In this porject, a Generative Adversarial Network （GANs） would be implemented which generates images of human faces.
-A basic generator + discriminator would be built in this model, where training alternates between updating the generator and the discriminator.
+In this porject, a Generative Adversarial Network （GANs）mold would be implemented which generates images of human faces. A basic generator and discriminator would be built in this model, where training alternates between updating the generator and the discriminator. The generator will be an up-convolutional network which maps a random latent code to an image, and the discriminator will be a down-convolutional network which maps an image to a real/fake probability.
